@@ -1,4 +1,4 @@
-# the_boring_1
+# Flutter Show #1
 
 A new Flutter application.
 
